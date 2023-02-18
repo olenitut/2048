@@ -1,4 +1,11 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Project description
+This is a clone of a vary popular game 2048. The version is desctop-only. 
+Use keyboard arrows to make a move. 
+
+# Key technologies used
+- Javascript ES2022
+- CSS 3
+- SASS
+- BEM
+
+[DEMO LINK](https://olenitut.github.io/2048/)
